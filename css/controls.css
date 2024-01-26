@@ -1,0 +1,53 @@
+
+
+.bluebold
+{
+    font-size:xx-large;
+    margin-left:50px;
+    color: #0174DF;
+}
+
+.register
+{
+    margin-left:100px;
+}
+
+th, td { padding: 5px; }
+
+.btn
+{
+    background-color:#0174df;
+    font-weight:bold;
+}
+.btn:hover
+{
+    background-color:#2ECCFA;
+    font-weight:bolder;
+}  
+
+.login
+{
+    margin-left:100px;
+}
+
+.space_grid
+{
+    margin-left:435px;
+}
+
+.serchtab
+{
+     border-collapse: separate; border-spacing: 50px;
+}
+
+#depart_disp
+{
+    margin-left:100px;
+    margin-top:50px;
+}
+
+.cent
+{
+    margin-top:200px;
+    
+} 
